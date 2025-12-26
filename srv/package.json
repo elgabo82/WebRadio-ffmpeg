@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^3.1.10"
+  },
+  "name": "srv",
+  "version": "1.0.0",
+  "main": "srv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Morejón",
+  "license": "ISC",
+  "description": ""
+}
